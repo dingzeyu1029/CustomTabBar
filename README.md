@@ -2,12 +2,11 @@
 
 A beautiful, flexible, and highly customizable tab bar for SwiftUI applications.
 
-![CustomTabBar Demo](screenshot.png)
+![CustomTabBar](https://github.com/user-attachments/assets/dbc9884e-e23b-43c8-900d-25603038216b)
 
 ## Features
 
 - 🎨 **Fully customizable** - Colors, shapes, animations, and more
-- 🔄 **Smooth animations** - Beautiful transitions when switching tabs
 - 🧩 **Simple integration** - Works seamlessly with existing SwiftUI views
 - 📱 **iOS compatible** - Works with iOS devices
 
